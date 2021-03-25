@@ -22,6 +22,9 @@ alias norg="gron --ungron"
 alias ungron="gron --ungron"
 alias j="jobs"
 alias follow="tail -f -n +1"
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
 
 # COLOURS! YAAAY!
 export TERM=xterm-256color
