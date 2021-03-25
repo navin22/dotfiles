@@ -1,4 +1,6 @@
-echo "Hello, world"
+echo "NAVIN DOTFILES"
 ln -sf /workspaces/.codespaces/.persistedshare/dotfiles/.bashrc ~/.bashrc
-ln -sf /workspaces/.codespaces/.persistedshare/dotfiles/.vscode.settings.json ~/.vscode.settings.json
-ln -sf /workspaces/.codespaces/.persistedshare/dotfiles/.git-shortcuts ~/.git-shortcuts
+
+alias gs='git status '
+alias ga='git add '
+alias gb='git branch '
